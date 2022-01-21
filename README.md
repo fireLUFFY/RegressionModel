@@ -11,4 +11,3 @@ The project flow was:
 -> Linear Regression from Scikit-Learn was used for the model. The data was split into a ratio of 80% and 20% for training & testing purposes.
 -> Python was used to build the http server based on Flask framework and used nginx as a reverse proxy & to serve static files.
 -> HTML5, CSS3 & JavaScript were used to build the front-end of the website.
-
