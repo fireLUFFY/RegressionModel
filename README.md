@@ -9,8 +9,7 @@ The project flow was:
 
 -> Cleaning the data-set by removing some outliers, null values, irrelevant paramters etc.
 
--> Finally after cleaning the data-set, independent parameters were decided. The parameters used were(Location, BHK, number of Bathroom, Locality). The dependant 
-   parameter was Price of the house.
+-> Finally after cleaning the data-set, independent parameters were decided. The parameters used were(Location, BHK, number of Bathroom, Locality). The dependant parameter was Price of the house.
 
 -> Linear Regression from Scikit-Learn was used for the model. The data was split into a ratio of 80% and 20% for training & testing purposes.
 
