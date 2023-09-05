@@ -16,5 +16,3 @@ The project flow was:
 -> Python was used to build the http server based on Flask framework and used nginx as a reverse proxy & to serve static files.
 
 -> HTML5, CSS3 & JavaScript were used to build the front-end of the website.
-
--> The model was deployed on Amazon Web Services(AWS) EC2 Instance.
